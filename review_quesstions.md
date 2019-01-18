@@ -1,22 +1,39 @@
-Revision Questions
-Linear Algebra
-Define Point/Vector (2-D, 3-D, n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/introduction-to-vectors2-d-3-d-n-d-copy-8/)
-How to calculate Dot product and angle between 2 vectors?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/dot-product-and-angle-between-2-vectors-1/)
-Define Projection, unit vector?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/projection-and-unit-vector-1/)
-Equation of a line (2-D), plane(3-D) and hyperplane (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-a-line-2-d-plane3-d-and-hyperplane-n-d-1/)
-Distance of a point from a plane/hyperplane, half-spaces?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/distance-of-a-point-from-a-planehyperplane-half-spaces-1/)
-Equation of a circle (2-D), sphere (3-D) and hypersphere (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-a-circle-2-d-sphere-3-d-and-hypersphere-n-d-1/)
-Equation of an ellipse (2-D), ellipsoid (3-D) and hyperellipsoid (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-an-ellipse-2-d-ellipsoid-3-d-and-hyperellipsoid-n-d-1/)
-Square, Rectangle, Hyper-cube and Hyper-cuboid?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/square-rectangle/)
- Probability  And Statistics
-What is Random variables: discrete and continuous?
-Define Outliers (or) extreme points?.
-What is PDF?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/gaussiannormal-distribution-1/)
-What is CDF?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/introduction-to-correlation-and-co-variance-1/)
-explain about 1-std-dev, 2-std-dev, 3-std-dev range?
-What is Symmetric distribution, Skewness and Kurtosis?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/symmetric-distribution-skewness-and-kurtosis/)
-How to do Standard normal variate (z) and standardization?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/standard-normal-variate-z-and-standardization/)
-What is Kernel density estimation?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/kernel-density-estimation/)
+### Revision Questions
+#### Linear Algebra
+
+* Define Point/Vector (2-D, 3-D, n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/introduction-to-vectors2-d-3-d-n-d-copy-8/)
+
+* How to calculate Dot product and angle between 2 vectors?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/dot-product-and-angle-between-2-vectors-1/)
+
+* Define Projection, unit vector?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/projection-and-unit-vector-1/)
+
+* Equation of a line (2-D), plane(3-D) and hyperplane (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-a-line-2-d-plane3-d-and-hyperplane-n-d-1/)
+
+* Distance of a point from a plane/hyperplane, half-spaces?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/distance-of-a-point-from-a-planehyperplane-half-spaces-1/)
+
+* Equation of a circle (2-D), sphere (3-D) and hypersphere (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-a-circle-2-d-sphere-3-d-and-hypersphere-n-d-1/)
+
+* Equation of an ellipse (2-D), ellipsoid (3-D) and hyperellipsoid (n-D)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/equation-of-an-ellipse-2-d-ellipsoid-3-d-and-hyperellipsoid-n-d-1/)
+
+* Square, Rectangle, Hyper-cube and Hyper-cuboid?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/square-rectangle/)
+
+
+#### Probability  And Statistics
+* What is Random variables: discrete and continuous?
+
+* Define Outliers (or) extreme points?.
+
+* What is PDF?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/gaussiannormal-distribution-1/)
+
+* What is CDF?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/introduction-to-correlation-and-co-variance-1/)
+
+* explain about 1-std-dev, 2-std-dev, 3-std-dev range?
+
+* What is Symmetric distribution, Skewness and Kurtosis?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/symmetric-distribution-skewness-and-kurtosis/)
+
+* How to do Standard normal variate (z) and standardization?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/standard-normal-variate-z-and-standardization/)
+
+* What is Kernel density estimation?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/kernel-density-estimation/)
 Importance of Sampling distribution & Central Limit theorem.(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/sampling-distribution-central-limit-theorem/)
 Importance of Q-Q Plot: Is a given random variable Gaussian distributed?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/q-q-plothow-to-test-if-a-random-variable-is-normally-distributed-or-not/)
 What is Uniform Distribution and random number generators(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/uniform-distribution-random-number-generators/)
