@@ -44,5 +44,5 @@
 * Pari plots, pair wise scatter plots for more than three dimensions 
 * If a straight line can seperate the classes correctly then the data set is called linearly seperable 
 
-![scatter_plot_iris](/Users/krishna/Desktop/venkat_krishna_turlapati/coding/appliedaicourse/images/scatter_plot_iris.png)     
+![scatter_plot_iris](~/images/scatter_plot_iris.png)     
 
