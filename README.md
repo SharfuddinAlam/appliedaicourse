@@ -5,7 +5,7 @@ Topics
 
 * [Exploratory Data Analysis](https://github.com/turlapativenkatkrishna/appliedaicourse/blob/master/eda/EDA_notes.ipynb)
 * [Probability](https://github.com/turlapativenkatkrishna/appliedaicourse/blob/master/probability/Probability_and_Statistics.ipynb)
-* Linear Algebra 
+* [Linear Algebra](https://github.com/turlapativenkatkrishna/appliedaicourse/blob/master/linear_algebra/Linear_Algebra_Notes.ipynb) 
 * Dimensionality Reduction
 * Feature Engineering - NLP 
 * Feature Engineering - other techniques 
